@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="rtb.gov.bn">
+  <channels>
+    <channel lang="ms" xmltv_id="RTBAneka.bn" site_id="Aneka">RTB Aneka</channel>
+    <channel lang="ms" xmltv_id="RTBPerdana.bn" site_id="Perdana">RTB Perdana</channel>
+    <channel lang="ms" xmltv_id="RTBSukmaindera.bn" site_id="Sukmaindera">RTB Sukmaindera</channel>
+  </channels>
+</site>

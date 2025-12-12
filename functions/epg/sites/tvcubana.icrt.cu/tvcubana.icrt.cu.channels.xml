@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="tvcubana.icrt.cu">
+  <channels>
+    <channel lang="es" xmltv_id="CubavisionNacional.cu" site_id="cv">Cubavisión Nacional</channel>
+    <channel lang="es" xmltv_id="TeleRebelde.cu" site_id="tr">Tele Rebelde</channel>
+    <channel lang="es" xmltv_id="CanalEducativo.cu" site_id="edu">Canal Educativo</channel>
+    <channel lang="es" xmltv_id="CanalEducativo2.cu" site_id="edu2">Canal Educativo 2</channel>
+    <channel lang="es" xmltv_id="CanalMultivision.cu" site_id="mv">Canal Multivisión</channel>
+    <channel lang="es" xmltv_id="CanalClave.cu" site_id="clave">Canal Clave</channel>
+    <channel lang="es" xmltv_id="CanalCaribe.cu" site_id="caribe">Canal Caribe</channel>
+    <channel lang="es" xmltv_id="CubavisionInternacional.cu" site_id="cvi">Cubavisión Internacional</channel>
+    <channel lang="es" xmltv_id="CanalHabana.cu" site_id="chabana">Canal Habana</channel>
+    <channel lang="es" xmltv_id="CubavisionPlus.cu" site_id="cvplus">Cubavisión Plus</channel>
+  </channels>
+</site>
