@@ -18,9 +18,10 @@ const ct = require('countries-and-timezones');
 const shell = require('shelljs');
 
 var serviceAccount = require("./tvnotify-b6a01-firebase-adminsdk-3e04k-42774239aa.json");
-const { resolve } = require("path");
+console.log("serviceAccount loaded:", !!serviceAccount, typeof serviceAccount, Object.keys(serviceAccount));
 admin.initializeApp({
-    credential: admin.credential.cert(serviceAccount)
+    credential: admin.credential.applicationDefault()//admin.credential.cert(serviceAccount)
+    
 });
 
 const db = admin.firestore();
